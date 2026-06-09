@@ -1,4 +1,4 @@
- 📊 Minería de Datos - Portafolio de Laboratorios
+ # 📊 Minería de Datos - Portafolio de Laboratorios
 
 **Autor:** Piero Furushio  
 **Curso:** Minería de Datos  
